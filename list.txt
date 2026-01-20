@@ -1,0 +1,1 @@
+Applistupdate에있는 코드 main에 붙여 넣으시면 될듯합니다.
